@@ -1,4 +1,4 @@
 body {
-  background: black;
-  color: white;
+  background: black; /* here we set the background colour to black */
+  color: white; /* and the text colour to white */
 }
